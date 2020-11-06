@@ -1,6 +1,6 @@
 # placental-segmentation-2dunet
 
-This repository contains Jupyter Notebooks and data for the training of 2d U-net models on placental blood vessel and maternal/fetal blood volume data. In addition separate notebooks allow the application of the trained U-net models to 3d blocks of image data in order to produce segmented outputs. 
+This repository contains Jupyter Notebooks and data for the training of 2d U-net models on placental blood vessel and maternal/fetal blood volume data. In addition separate notebooks allow the application of the trained U-net models to 3d blocks of image data in order to produce segmented outputs. The notebooks can be run on the Google Colab platform if desired. The notebooks for prediction can be used separately with example data and pretrained models that are hosted on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4249627.svg)](https://doi.org/10.5281/zenodo.4249627)
 
 ## Blood vessel 2d U-net training
 
